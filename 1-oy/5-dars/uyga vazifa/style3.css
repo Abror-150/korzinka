@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.heart{
+    position: absolute;
+    color: rgb(253, 50, 50);
+    background-color: green;
+    border-radius: 40px;
+    top: 30px;
+    right: 30px;
+    padding: 10px;
+    width: 35px;
+    height: 35px;
+    
+}
+
+
+
+.card-image{
+    position: relative;
+}
+
+p{
+    padding: 10px 0;
+    line-height: 30px;
+}
+
+img{
+    width: 100%;
+}
+.text-card{
+    padding: 30px;
+    text-align: justify;
+}
+
+
+.card{
+    width: 26%;
+    background-color: khaki;
+    border:  3px solid chocolate;
+    border-radius: 0 0 50px 50px;
+    margin: 30px;
+    display: inline-block;
+    vertical-align: top;
+
+
+}
+
+
+
+.cards{
+    width: 90%;
+    text-align: center;
+    background-color: lightblue;
+    margin: 0 auto ;
+    margin-top: 100px;
+
+}
+
+
+.box{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: aqua;
+    padding: 20px;
+    border-bottom: 4px double green;
+    z-index: 9;
+    display: flex;
+
+}
+.box ul{
+    list-style: none;
+    padding: 0 20px;
+    display: flex;
+
+
+    
+}
+.box button{
+    width: 70px;
+    height: 35px;
+    padding: 10px 20px;
+    border:1px solid red ;
+    border-radius: 40px;
+    background-color: yellow;
+}
+.box h1{
+    font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    display: inline-block;
+}
+
+
+
+
+.box ul li{
+    padding: 0 30px;
+    font-size: 20px;
+    text-decoration:underline wavy ;
+}
+

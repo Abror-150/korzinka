@@ -1,0 +1,232 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.imgcards {
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .img_box {
+    width: 400px;
+    border: 8px solid yellow;
+    background-color: pink;
+  }
+  
+
+
+
+.container {
+    display: flex;
+    align-items: center;
+    padding: 25px 20px;
+    gap: 10px;
+   
+    background-color: rgb(173, 216, 230);
+    box-shadow: 0 2px 0px green ;
+    
+    
+}
+
+.log{
+    font-size: 28px;
+    font-weight: bold;
+    padding-right: 15px;
+    color: red;
+    
+}
+
+
+
+.list ul {
+   display: flex ;
+   gap: 20px;
+   font-size: 20px;
+   list-style: none;
+   color: red;
+  
+}
+
+
+
+
+.ufc{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.box5{
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+
+    box-shadow: -10px -10px red , -20px -20px gray, -30px -30px red, -40px -40px gray;
+    
+    background-color:rgb(0,128,128) ;
+    
+    
+}
+
+.box4{
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    
+    box-shadow: 2px 2px grey , 4px 4px red, 6px 6px gray, 8px 8px red, 10px 10px gray;
+    background-color:rgb(0,128,128) ;
+    
+    
+}
+
+
+.box3{
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    
+    box-shadow: inset 5px 5px 4px red, inset 8px 8px 20px yellow;
+    
+    background-color:rgb(0,128,128) ;
+    
+    
+}
+
+
+
+.box2{
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    
+    box-shadow: 5px 5px 2px red,9px 9px 2px green, 13px 13px 2px yellow ;
+    
+    background-color:rgb(0,128,128) ;
+    
+    
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    box-shadow: 4px 4px 6px red,8px 10px 6px green, 10px 12px 6px yellow ;
+
+    background-color:rgb(0,128,128) ;
+
+   
+}
+
+
+.matn4 {
+    height: 70px;
+   margin: 20px;
+    background-color: rgb(128, 128, 128);    
+}
+
+.matn4 p{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+    letter-spacing: 5px;
+    transform: scaleX(1.2);
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 1px 0px black,
+    3px 2px 0px white,
+    0px 3px 0px white,
+    4px 6px 0px black;
+}
+
+.matn3 {
+    height: 70px;
+   margin: 20px;
+    background-color: rgb(0, 255, 255);    
+}
+
+.matn3 p{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+    letter-spacing: 5px;
+    transform: scaleX(1.2);
+    color: black;
+    
+    text-shadow: 0 5px 8px rgb(66, 63, 63);
+    
+}
+
+
+.matn2 {
+    height: 70px;
+   margin: 20px;
+    background-color: rgb(0, 255, 255);    
+}
+
+.matn2 p{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+    letter-spacing: 5px;
+    transform: scaleX(1.2);
+    color: black;
+    text-shadow: 3px 4px 4px rgb(223, 14, 14),
+
+    4px 3px 7px yellow ;
+
+    
+}
+
+.matn {
+    height: 70px;
+   margin: 20px;
+    background-color: rgb(0, 255, 255);    
+}
+
+.matn p{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+    letter-spacing: 5px;
+    transform: scaleX(1.2);
+    color:black;
+    text-shadow: 3px 3px 4px gray
+    
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 25px 20px;
+    gap: 10px;
+   
+    background-color: rgb(173, 216, 230);
+    box-shadow: 0 2px 0px green ;
+    
+}
+
+.logo{
+    font-size: 28px;
+    font-weight: bold;
+    padding-right: 15px;
+    color: red;
+    
+}
+
+
+
+.menu {
+   display: flex ;
+   gap: 20px;
+   font-size: 20px;
+   list-style: none;
+  
+}

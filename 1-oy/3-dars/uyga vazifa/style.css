@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.box{
+    padding: 20px;
+    margin-top: 0;
+    background-color: khaki;
+}
+
+a{
+    margin: 0 16px;
+    text-decoration: inherit;
+    color: inherit;
+} 
+.card{
+    width: 260px;
+    background-color: #90EE90;
+    margin: 60px;
+    display: inline-block;
+    padding: 20px;   
+    border-radius: 15px; 
+    border: solid 3px grey;
+    
+     
+} 
+.card p{
+    padding: 10px 0px;
+    text-align: justify;
+}
+
+.rasm img{
+    width: 100%;
+
+}
+.card button{
+    background-color: rgb(173, 216, 230);
+    /* padding: 5px 20px; */
+    width: 260px;
+    padding: 10px 10px;
+    border-radius: 15px;
+    border: solid 3px black;
+    margin-top: 50px;
+}
+
+ .card h1{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 26px;
+
+
+    
+}
+
+
+
+.tab{
+    background-color: rgb(0,0,139);
+    color: rgb(255,255,255);
+    display: block;
+    padding: 70px;
+
+}
+.tab ul{
+    display: inline-block;
+    padding: 20px;
+}
+.tab p{
+    text-align: center;
+
+}
+
+
+
+
+.frm h1{
+    background-color: rgb(224,255,255);
+    box-sizing: border-box;
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+
+    
+}
+
+.frm{
+    background-color: rgb(0,0,139);
+    color: rgb(255,255,255);
+    display: block;
+    padding: 70px;
+
+}
+.frm ul{
+    display: inline-block;
+    padding: 20px;
+}
+.frm p{
+    text-align: center;
+
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    padding: 20px;
+    margin-top: 0;
+    background-color: khaki;
+}
+
+ a {
+    margin: 0 16px;
+    text-decoration: inherit;
+    color: inherit;
+
+}
+
+.box2 {
+    display: inline-block;
+    background-color: lightcyan;
+    padding: 30px;
+    width: 45%;
+}
+.box2 input{
+    margin: 10px 0;
+    padding: 5px;
+    width: 100%;
+}
+.box2 button{
+    padding: 10px 30px;
+    color: white;
+    background-color: chocolate;
+    border-radius: 10px;
+}
+
+.footr{
+    background-color: rgb(0,0,139);
+    color: rgb(255,255,255);
+    display: block;
+    padding: 70px;
+
+}
+.footr ul{
+    display: inline-block;
+    padding: 20px;
+}
+.footr p{
+    text-align: center;
+
+}
+
+
+
+
+
+

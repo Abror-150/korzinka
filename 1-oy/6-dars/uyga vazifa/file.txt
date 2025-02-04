@@ -1,0 +1,93 @@
+1.8 ta ma'lumot turlari bor va ular
+1-number 2 - bigint 3- string 4-Boolen 5-Undefined 6-Null 7-Sybol 8 -object
+
+
+2.variable yaratishni 3 xil yo'li bor
+
+  1.var 2.let 3.const
+
+3. variable larning farqlari
+  let o'zgaruvchi qayta yaratib bo'lmaydi lekin qiymatini o'zgartirib bo'ladi
+
+  var o'zgaruvchi qayta yaratib bo'ladi  qiymatini ham o'zgartirib bo'ladi
+
+  const ikkalasini ham o'zgartirib bo'lmaydi
+
+4.primitive va non primitive malumot turlarining farqi ?
+
+  primitive : oddiy qiymatlarni saqlash uchun ishlatiladi va bir o'zgaaruvchidan boshqasiga nusxlanadi.
+
+ non-primitive: esa murakkab ma'lumotlarni saqlash uchun ishlatiladi va xotira manzilini ulashadi.
+
+5.Global variable bu ? barcha joylardan ishlashi mumkin bo'lgan o'zgaruvchidir.
+
+6.Local variable bu? local o'zgaruvchi faqat o'zi chegaralangan ichida ishlatish mumkin
+
+7.Undefined va null ning farqlari ?
+	
+ undefined: bu qiymat hali aniqlanmagan yoki belgilanmaganligini bildiruvchi maxsus primitive ma;lumot turi
+
+8.bigint va number farqlari ?
+
+   bigint juda katta butun sonlarni hisoblash kerak bo'lganda qo'llaniladi. Agar sonlar 2ning 53 darajasidan kichik bo'lsa bigint o'rniga number ishlatish kerak.
+
+9.Symbol va string farqlari ?
+	
+   string:Odatda foydalanuvch bilan bog'liq matnlar uchun ishlatiladi.
+   
+   Symbol:Dastur ichida noyob kalit yoki maxfiy identifikator kerak bo'lganda ishlatiladi.
+
+10.'==' va '===' farqi ?
+  
+  ==: bu qiymatlarni taqqoslaydi,lekin ularni bir xil turga aylantirib solishtiradi
+
+  ===: bu qiymatlarni solishtiradi va turini ham tekshiradi.
+
+11.'++' vazifasi ?
+
+     qiymatni 1 ta ga oshiradi.
+
+12.'a++' va '++a' farqi?
+  
+    a++:qiymatni avval qaytaradi, so'ngra oshiradi.
+     
+    ++a:qiymatni avval oshiradi so'ngra qaytaradi
+
+13.'>=' va '>' farqi ?
+
+  >:birinchi qiymat katta bo'lish kerak.
+  >=: birinchhi qiymat katta yoki teng bo'lishi kerak.
+
+14.let a=5
+   
+  6
+  25
+  10
+  4
+  3
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+
+
+
+ 
+
+
+
+
+
+
+
+
