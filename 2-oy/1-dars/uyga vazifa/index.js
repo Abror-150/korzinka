@@ -5,10 +5,8 @@ function oddEven (son) {
         console.log(`${son} juft `);
     }else{
         console.log(`${son} toq`);
-    }
-    
+    }   
 }
-
 function checkPrime(son){
     if(son<2)return false
 
@@ -16,9 +14,7 @@ function checkPrime(son){
         if(son % i ==0) return false
     }
     return true
-
 }
-
 function checkPalindrom(str) {
     let rez = str.split("").reverse().join("")
     if(rez==str){

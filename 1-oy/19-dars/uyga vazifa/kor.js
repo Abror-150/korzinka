@@ -4,15 +4,15 @@ let narx = document.querySelector("span")
 let api = axios.create({
     baseURL: "https://679a140e747b09cdcccd96ff.mockapi.io"
   });
-function del(son) {
-    let bas = localStorage.getItem("basket");
-    let arr = JSON.parse(bas);
-    let filterr = arr.filter((p) => p != son)
-    console.log(filterr);
-    localStorage.setItem("basket",JSON.stringify(filterr))
-    location.reload()
+// function del(son) {
+//     let bas = localStorage.getItem("basket");
+//     let arr = JSON.parse(bas);
+//     let filterr = arr.filter((p) => p != son)
+//     console.log(filterr);
+//     localStorage.setItem("basket",JSON.stringify(filterr))
+//     location.reload()
 
-}
+// }
 function show(arr) {
     arr.forEach((e) => {
       div.insertAdjacentHTML(

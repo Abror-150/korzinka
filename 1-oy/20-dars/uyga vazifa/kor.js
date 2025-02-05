@@ -18,6 +18,7 @@ function show(arr) {
       div.insertAdjacentHTML(
         "beforeend",
         `<div class="card">
+            <img src="${e.image}" alt="rasm">
               <h1>${e.name}</h1>
               <p>${e.price}</p>
               <p>${e.color}</p>

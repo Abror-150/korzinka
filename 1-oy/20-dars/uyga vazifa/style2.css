@@ -26,13 +26,10 @@
     border-radius: 5px;
 }
 
-button:hover{
-    background-color: white;
+a{
+    padding: 200px;
+    color: gray;
+    font-size: 30px;
 }
-h2{
-   padding: 20px;
-}
-
-
 
 
